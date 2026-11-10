@@ -9,7 +9,6 @@ Professional with a **Master’s Degree in Systems and Marketing** and a **Bache
 * **Communication:** Technical educator and content creator for the open-source community via [YouTube](https://www.youtube.com/@jecarheas).
 
 ## 🚀 Key Projects
-* **Sherlock GUI:** Developing a Python-based graphical interface for the Sherlock cybersecurity tool.
 * **System Hardening:** Implementation of security protocols for server environments.
 
 ## 🎓 Education
